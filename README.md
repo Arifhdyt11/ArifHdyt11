@@ -29,5 +29,6 @@
 
 <div>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifhdyt11&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-    <img height="200em" style="margin-left:20px" src="https://github-readme-stats.vercel.app/api?username=Arifhdyt11&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
+    
+ <img height="200em" style="margin-left:20px" src="https://github-readme-stats.vercel.app/api?username=Arifhdyt11&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
 </div>
