@@ -5,9 +5,9 @@
  <img height=10 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/800px-Flag_of_Indonesia.svg.png?20200822164827" /> with 1 year of working experience. Can work well in a team environment and use high initiative and curiosity that helps in the process of developing websites based on user needs.
 </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about **Next, Laravel, Inertia**
 
 - 📫 How to reach me **a.hidayat4121@gmail.com**
 
